@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+
+body{
+    font-family: 'Slabo 27px', serif;
+    background-image: url(AbstractWhite.jpg);
+    background-size: 100%;
+}
+
+div{
+    max-width: 1000px;
+    width: 100%;
+    margin: auto;
+    background-color: rgba(255,209,220,0.5);
+}
+
+h2{
+    padding: 3%;
+}
+
+embed{
+    width: 95%;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
